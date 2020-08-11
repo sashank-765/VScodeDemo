@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    {
+      "TaskId": 1,
+      "TaskTitle": "Task-1",
+      "Description": "This is a detailed description of task--1"
+    },
+    {
+      "TaskId": 2,
+      "TaskTitle": "Task-2",
+      "Description": "This is a detailed description of task--2"
+    },
+    {
+      "TaskId": 3,
+      "TaskTitle": "Task-3",
+      "Description": "This is a detailed description of task--3"
+    },
+    {
+      "TaskId": 4,
+      "TaskTitle": "Task-4",
+      "Description": "This is a detailed description of task--4"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
